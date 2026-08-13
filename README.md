@@ -17,12 +17,16 @@ A free TradingView indicator written in Pine Script v6. It combines:
 
 The repository includes the complete source code and a Polish installation guide. The indicator is under active development; current work focuses on improving FVG/IFVG geometry and validating its behaviour across instruments and timeframes.
 
+### [Codex TradingView Indicator Skill](https://github.com/amadeo987/codex-tradingview-indicator-skill)
+
+A reusable Codex skill for turning an indicator idea into documented Pine Script, compiling it through the TradingView bridge, checking chart output and preparing a safe public release.
+
 ## Current focus
 
 - refining practical price-action indicators,
 - testing market-structure logic across crypto markets,
 - building trading workflows, analytics and automation,
-- publishing useful tools with clear documentation.
+- publishing useful tools and reusable development workflows with clear documentation.
 
 ## Toolkit
 
