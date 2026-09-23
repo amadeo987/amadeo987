@@ -1,4 +1,4 @@
-# Amadeusz
+# Amadeo
 
 Trader & developer building algorithmic trading systems, market analysis tools and automation.
 
