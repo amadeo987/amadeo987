@@ -1,49 +1,38 @@
 # Amadeo
 
-Trader & developer building algorithmic trading systems, market analysis tools and automation.
+Trader & developer focused on market analysis, Pine Script indicators and trading automation.
 
-I build practical software around price action, trading workflows and data-driven market research. My public repositories focus on tools that other traders can inspect, test and improve. Execution systems and private research stay private.
+I build practical tools for price action, market structure and crypto research. Public projects are released when they are useful to other traders; execution systems, experiments and private research stay private.
 
-## TradingView tools
+## TradingView indicators
 
 ### [SK SFP + FVG / IFVG + RSI](https://github.com/amadeo987/sfp-fvg-indicator)
 
-A free TradingView indicator written in Pine Script v6. It combines:
+A Pine Script v6 price-action toolkit combining:
 
 - nearby Swing Failure Pattern levels,
 - nearest 1H FVG and IFVG zones,
-- weekday markers and classic RSI 14,
-- alerts for selected level events.
+- weekday markers,
+- classic RSI 14.
 
-The repository includes the source code and a Polish installation guide.
+The public repository includes the source code and a Polish installation guide.
 
 ### [Naked POC — Daily / Weekly / Monthly](https://github.com/amadeo987/tradingview-naked-poc-dwm)
 
-A Pine Script v6 indicator for tracking untouched daily, weekly and monthly Points of Control. A focused companion for chart-based market analysis.
+A Pine Script v6 indicator for tracking untouched daily, weekly and monthly Points of Control. Built as a focused tool for chart-based market analysis.
 
-## Reusable AI skills
+### [[ad] Liquidation Heatmap](https://www.tradingview.com/script/q3vSyjnG-ad-Liquidation-Heatmap/)
 
-Practical Codex workflows with readable instructions and clear boundaries.
+A TradingView indicator that estimates areas where leveraged long and short positions may be liquidated and displays them as a heatmap behind price.
 
-### [Codex TradingView Indicator Skill](https://github.com/amadeo987/codex-tradingview-indicator-skill)
+Available directly on TradingView.
 
-A reusable Codex skill for turning an indicator idea into documented Pine Script, compiling it through the TradingView bridge, checking chart output and preparing a safe public release.
+## Development
 
-### [Montaż filmu — Polish video skill](https://github.com/amadeo987/codex-montaz-filmu-skill)
+`Pine Script v6` · `Python` · `TypeScript` · `Node.js` · `REST APIs` · `Data analysis` · `Automation`
 
-A Polish alias for adding timed titles, quotes and graphic overlays to existing talking-head footage with HyperFrames. Includes installation instructions and upstream credits. HyperFrames is a separate dependency; this is not a standalone video editor.
+Alongside my public indicators, I develop private trading systems, research tools and automation.
 
-## Current focus
-
-- refining practical price-action indicators,
-- testing market-structure logic across crypto markets,
-- building trading workflows, analytics and automation,
-- publishing useful tools and reusable development workflows with clear documentation.
-
-## Toolkit
-
-`Pine Script` · `Python` · `TypeScript` · `Node.js` · `SQLite` · `REST APIs` · `Data analysis` · `Automation`
-
-## Important
+## Disclaimer
 
 My public projects are analytical and educational tools. They are not financial advice, trading signals or a guarantee of performance.
